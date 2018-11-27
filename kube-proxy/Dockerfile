@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-proxy:v1.12.2
+FROM gcr.io/google_containers/kube-proxy:v1.12.3
 MAINTAINER andy0107
